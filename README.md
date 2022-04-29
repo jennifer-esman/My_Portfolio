@@ -20,7 +20,7 @@ To run the project, click the link below:
 https://jennifer-esman.github.io/Challenge-Module-1-je/
 
 ## Screenshots and Multimedia
-<img width="400" alt="Screen Shot of Finished Site" src="./images/01-html-css-git-homework-demo.png">
+<img width="400" alt="Screen Shot of Finished Site" src="./images/Screenshot-web-app-1.jpg">
 
 ## Web Developer Contact Info
 <img width="150" alt="My Picture" src="https://avatars.githubusercontent.com/u/101906587?s=400&u=9d4b532e78136a3746fc5cc6796b69fd51c21ea4&v=4">
