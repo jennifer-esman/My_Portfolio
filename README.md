@@ -7,7 +7,7 @@
 * Web Developer Contact Info
 
 ## General Info
-The project was initialized to create an webpage containing information about Jennifer, her portfolio projects, and how to contact her for work and also to see her resume. In the 
+The project was initialized to create an webpage containing information about me, my portfolio projects, and how to contact me for work and also to see her resume. This is my web developer portfolio.
 * The portfolio will contain information about the developer, a recent photo, and links to each section.
 * The links navigate to the different sections of the webpage.
 * The UI scrolls to the appropriate sections of the webpage.
@@ -17,10 +17,12 @@ The project was initialized to create an webpage containing information about Je
 
 ## Setup
 To run the project, click the link below:
-https://jennifer-esman.github.io/Challenge-Module-1-je/
+https://jennifer-esman.github.io/My_Portfolio/
 
 ## Screenshots and Multimedia
 <img width="400" alt="Screen Shot of Finished Site" src="./images/Screenshot-web-app-1.jpg">
+
+<img width="400" alt="Screen Shot of Finished Site" src="./images/Screenshot-web-app-2.jpg">
 
 ## Web Developer Contact Info
 <img width="150" alt="My Picture" src="https://avatars.githubusercontent.com/u/101906587?s=400&u=9d4b532e78136a3746fc5cc6796b69fd51c21ea4&v=4">
