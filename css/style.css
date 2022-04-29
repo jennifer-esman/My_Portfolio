@@ -8,7 +8,6 @@
     --primary-color: rgb(255, 0, 255);
     --secondary-color: rgb(0, 255, 255);
     --link-color: rgb(0, 0, 0);
-    --text-dec: text-decoration: none;
 }
 /*element Selectors*/
 body {
@@ -76,6 +75,7 @@ h3 {
     height: 100%;
     transition: 0.5s;
     overflow: hidden;
+    z-index: 2;
     background-color: var(--primary-color);
 }
 
@@ -120,7 +120,7 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 30%;
+    padding-bottom: 300px;
     background-color: var(--secondary-color);
 }
 
@@ -135,9 +135,6 @@ h3 {
     display: flex;
     justify-content: center;
     position: absolute;
-    margin: -15px;
-    text-decoration: none;
-    color: var(--link-color);
 }
 
 .card ul {
